@@ -154,6 +154,7 @@ def test_readme_check_spelling():
         "ouput",
         "outpur",
         "parallellogram",
+        "phyton",
         "pleasently",
         "pogram",
         "possibiltys",
